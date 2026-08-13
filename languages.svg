@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #A97BFF; 
-  width: 49.606%;
+  width: 49.654%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
-  width: 36.920%;
+  width: 36.885%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 5.387%;
+  width: 5.382%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.311%;
+  width: 3.308%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 2.490%;
+  width: 2.487%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 0.791%;
+  width: 0.790%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.493%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.489%;
+  width: 0.488%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.255%;
@@ -197,7 +197,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">49.61%</span>
+  <span class="percent">49.65%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -213,7 +213,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">36.92%</span>
+  <span class="percent">36.89%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -229,7 +229,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">5.39%</span>
+  <span class="percent">5.38%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -325,7 +325,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">0.26%</span>
+  <span class="percent">0.25%</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
