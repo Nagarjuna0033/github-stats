@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #A97BFF; 
-  width: 50.919%;
+  width: 50.952%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
-  width: 34.744%;
+  width: 34.721%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 5.073%;
+  width: 5.070%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 3.423%;
+  width: 3.421%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.143%;
+  width: 3.140%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 1.264%;
+  width: 1.263%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.464%;
@@ -161,7 +161,7 @@ div.ellipsis {
   width: 0.240%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
-  width: 0.161%;
+  width: 0.160%;
 " class="progress-item"></span><span style="
   background-color: #6866fb; 
   width: 0.056%;
@@ -197,7 +197,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">50.92%</span>
+  <span class="percent">50.95%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -213,7 +213,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">34.74%</span>
+  <span class="percent">34.72%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
