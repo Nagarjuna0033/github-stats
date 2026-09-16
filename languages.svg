@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #A97BFF; 
-  width: 51.295%;
+  width: 51.345%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
-  width: 33.746%;
+  width: 33.678%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 4.928%;
+  width: 4.918%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 4.225%;
+  width: 4.264%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.052%;
+  width: 3.046%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 1.355%;
+  width: 1.354%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.451%;
+  width: 0.450%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.447%;
+  width: 0.446%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.233%;
@@ -197,7 +197,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">51.30%</span>
+  <span class="percent">51.34%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -213,7 +213,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">33.75%</span>
+  <span class="percent">33.68%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -229,7 +229,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">4.93%</span>
+  <span class="percent">4.92%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -245,7 +245,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">4.22%</span>
+  <span class="percent">4.26%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -277,7 +277,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Ruby</span>
-  <span class="percent">1.36%</span>
+  <span class="percent">1.35%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
