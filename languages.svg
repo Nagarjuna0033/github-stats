@@ -134,37 +134,37 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #A97BFF; 
-  width: 51.533%;
+  width: 51.654%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
-  width: 33.143%;
+  width: 33.004%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 4.839%;
+  width: 4.819%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 4.661%;
+  width: 4.694%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 2.999%;
+  width: 2.986%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 1.404%;
+  width: 1.423%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.443%;
+  width: 0.441%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.439%;
+  width: 0.437%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.229%;
+  width: 0.228%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
   width: 0.159%;
 " class="progress-item"></span><span style="
   background-color: #6866fb; 
-  width: 0.054%;
+  width: 0.053%;
 " class="progress-item"></span><span style="
   background-color: #c30e9b; 
   width: 0.047%;
@@ -174,6 +174,9 @@ div.ellipsis {
 " class="progress-item"></span><span style="
   background-color: #C1F12E; 
   width: 0.015%;
+" class="progress-item"></span><span style="
+  background-color: #336790; 
+  width: 0.005%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
   width: 0.004%;
@@ -200,7 +203,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">51.53%</span>
+  <span class="percent">51.65%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -216,7 +219,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
-  <span class="percent">33.14%</span>
+  <span class="percent">33.00%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -232,7 +235,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">4.84%</span>
+  <span class="percent">4.82%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -248,7 +251,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">4.66%</span>
+  <span class="percent">4.69%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -264,7 +267,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">3.00%</span>
+  <span class="percent">2.99%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -280,7 +283,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Ruby</span>
-  <span class="percent">1.40%</span>
+  <span class="percent">1.42%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -414,6 +417,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #336790;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">PLpgSQL</span>
+  <span class="percent">0.00%</span>
+</li>
+<li style="animation-delay: 2400ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #000080;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -426,7 +445,7 @@ div.ellipsis {
   <span class="lang">Lua</span>
   <span class="percent">0.00%</span>
 </li>
-<li style="animation-delay: 2400ms;">
+<li style="animation-delay: 2550ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
